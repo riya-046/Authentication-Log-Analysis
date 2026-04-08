@@ -86,7 +86,3 @@ Since the dataset does not include authentication fields, additional attributes 
 * Interactive dashboard using Streamlit
 * Machine learning-based anomaly detection
 
-
-## 📌 Note
-
-This project is intended for learning and demonstration purposes in cybersecurity and data analysis.
