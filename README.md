@@ -10,7 +10,6 @@ The analysis involves data cleaning, feature engineering, and aggregation to unc
 
 The project generates structured reports and visualizations that help in understanding system access patterns and highlighting high-risk entities. It serves as a foundational implementation of log analysis and can be extended into real-world cybersecurity monitoring systems.
 
-
 ---
 
 ##  Key Features
